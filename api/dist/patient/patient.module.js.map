@@ -1,0 +1,1 @@
+{"version":3,"file":"patient.module.js","sourceRoot":"","sources":["../../src/patient/patient.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,2EAAiE;AACjE,6DAAyD;AAMlD,IAAM,aAAa,GAAnB,MAAM,aAAa;CAAG,CAAA;AAAhB,sCAAa;wBAAb,aAAa;IAJzB,IAAA,eAAM,EAAC;QACN,WAAW,EAAE,CAAC,sCAAiB,CAAC;QAChC,SAAS,EAAE,CAAC,8CAAkB,CAAC;KAChC,CAAC;GACW,aAAa,CAAG"}
